@@ -1,2 +1,9 @@
 # 使用データ
 data/
+
+# ちょっとした実験用
+test.R
+test.ipynb
+
+# MCMCの実行結果の保存
+*.rds
