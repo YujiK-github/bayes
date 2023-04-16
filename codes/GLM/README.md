@@ -70,3 +70,4 @@ or
     y_{i} \sim Binom(10, logistic(p_{i}))\\
     logistic(x) = \frac{1}{1+\exp(-x)}
 \end{cases}
+$$
